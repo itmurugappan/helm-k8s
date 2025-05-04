@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: super-simple-app
-        image: hr/super-simple-app:replaceImageTag
+        image: hr/super-simple-app:85
         ports:
         - containerPort: 8080
